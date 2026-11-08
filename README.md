@@ -7,7 +7,9 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 [English](#english) ・ [简体中文](#简体中文) ・ [한국어](#한국어)
 
 > [!NOTE]
-> 現在開発中です（Ver. 0.8 系をテスト中）。配布を始めるときは、このページの Releases でお知らせします。
+> **近日、販売開始予定です！**（現在 Ver. 0.8 系を最終テスト中）
+> 販売開始の際は、このページと [YouTube](https://www.youtube.com/@SoaAlch)・[X](https://x.com/SoaAlch) でお知らせします。
+> *Coming soon — available for purchase shortly.* ・ *即将发售* ・ *곧 판매 예정*
 
 <p align="center"><img src="images/home_en.png" width="800" alt="水 Space home screen"></p>
 
@@ -249,7 +251,7 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 - **Performance overlay** – FPS, CPU, GPU, RAM, power, temperature, battery, clock
 - **Device & driver check** – links to official download pages (never installs drivers by itself)
 - **Themes & wallpaper**, **8 languages**, one-exe installer
-- Runs **only on SuiPlay0X1**. Currently in development (Ver. 0.8 series).
+- Runs **only on SuiPlay0X1**. **Coming soon** – sales will start shortly (now in final testing, Ver. 0.8 series). Follow YouTube / X for the announcement.
 
 This is an unofficial app made by an individual developer and is not affiliated with the device manufacturer.
 
@@ -276,7 +278,7 @@ This is an unofficial app made by an individual developer and is not affiliated 
 - **性能显示** – FPS、CPU、GPU、内存、功耗、温度、电量、时间
 - **设备与驱动检查** – 引导至官方下载页面（不会自动安装驱动）
 - **主题与壁纸**、**8 种语言**、单个 exe 即可安装
-- **仅支持 SuiPlay0X1**。目前正在开发中（Ver. 0.8 系列）。
+- **仅支持 SuiPlay0X1**。**即将发售**（目前正在进行最终测试，Ver. 0.8 系列）。发售消息将在 YouTube / X 公布。
 
 本应用由个人开发者制作，属于非官方应用，与设备制造商无关。
 
@@ -295,7 +297,7 @@ This is an unofficial app made by an individual developer and is not affiliated 
 - **성능 표시** – FPS, CPU, GPU, 메모리, 소비 전력, 온도, 배터리, 시각
 - **장치·드라이버 점검** – 공식 다운로드 페이지로 안내(드라이버를 자동으로 설치하지 않음)
 - **테마와 배경 화면**, **8개 언어**, exe 하나로 설치
-- **SuiPlay0X1 전용**입니다. 현재 개발 중(Ver. 0.8 시리즈).
+- **SuiPlay0X1 전용**입니다. **곧 판매 예정**입니다(현재 최종 테스트 중, Ver. 0.8 시리즈). 판매 소식은 YouTube / X에서 알려 드립니다.
 
 개인 개발자가 만든 비공식 앱이며, 기기 제조사와는 관계가 없습니다.
 
