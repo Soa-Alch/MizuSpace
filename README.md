@@ -37,7 +37,7 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 | 性能 | 省電力／バランス／性能のプリセット、消費電力（TDP）の細かい調整、FPS 制限 |
 | デバイス | 明るさ・音量・リフレッシュレート・解像度、Wi-Fi・Bluetooth・機内モード |
 | 操作 | コントローラーでのパソコン操作、ボタンの割り当て |
-| 電池 | バイパス充電、充電上限 |
+| 電池 | バイパス充電、充電上限（60〜90%）、自動かけ直し |
 | システム | テーマ・言語・背景画像など |
 
 <table><tr>
@@ -50,11 +50,23 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 - 30／40／45／60 FPS から選べます。電池を長持ちさせたいときや、本体の発熱を抑えたいときに
 - AMD のドライバ標準の機能を使うので、ゲームごとの設定はいりません
 
-### 🔋 バイパス充電・充電上限
-- 充電器をつないだまま遊ぶときに、バッテリーへの負担を減らす「バイパス充電」
-- 60／70／80／90% で充電を止める「充電上限」
-- 充電器の抜き差しやスリープからの復帰のあとも、自動でかけ直します
-- アプリを終了すると、必ず通常の充電に戻ります
+### 💧 バッテリーと本体にやさしい充電 ― バイパス充電・充電上限
+水が器に合わせて形を変えるように、遊び方に合わせて充電のしかたを選べます。
+バッテリーの劣化や本体の発熱をおさえて、SuiPlay0X1 を**長く大切に使う**ための機能です。
+
+| モード | こんなときに | 動き |
+|---|---|---|
+| 🔌 通常充電 | 出かける前に満タンにしたい | 100% まで充電 |
+| 💧 バイパス | 充電器をつないだまま、長く遊ぶ | バッテリーには充電せず、充電器の電気で直接動かします。充電による熱と劣化をおさえます |
+| 🌊 充電上限 | ふだんは充電器につなぎっぱなし | 60／70／80／90% で充電を止め、5% 下がったら再開。満充電のまま置かないので、バッテリーが長持ち |
+
+**安心して任せられる、細かな気配り**
+- 🔁 **自動でかけ直し**：充電器の抜き差しやスリープからの復帰で設定が外れても、自動で元どおりに（最大 3 回。それでも戻らないときはお知らせします）
+- 🛡️ **必ず通常の充電に戻る**：アプリを終了したとき、本体を再起動・シャットダウンしたときは通常の充電に戻ります。「気づいたら充電されていなかった」を防ぎます（スリープ中は設定をそのまま保ちます）
+- 👀 **今の状態がひと目で分かる**：「バイパス中」「充電中 ○W」など、状態と電力を表示
+- ⏱️ **反映までの時間もお知らせ**：切り替えてから反映まで約 30 秒かかることを、画面で伝えます
+- 🔒 **SuiPlay0X1 専用の安全ロック**：対応機種であることを確かめてから動くので、ほかの PC で誤って動くことはありません
+- 🎯 **TDP・FPS 制限と組み合わせて**：消費電力と発熱を、さらにおさえられます
 
 <img src="images/charge_ja.png" width="640" alt="充電の設定">
 
@@ -264,7 +276,10 @@ SuiPlay0X1 を Windows 化して使い始めたとき、**本体の設定をま�
 
 - **Home screen** – launch your Steam / Epic Games / GOG games with cover art
 - **Quick settings** – press the "水" button for a slide-in panel: performance (TDP presets), FPS limit (30/40/45/60), brightness, volume, refresh rate, resolution, Wi-Fi / Bluetooth / airplane mode
-- **Bypass charging & charge limit** (60–90%) – reduces battery wear while playing plugged in
+- **Battery-friendly charging** – gentle on your battery and device, like water:
+  - *Bypass* – runs straight from the charger without charging the battery, reducing heat and wear during long plugged-in sessions
+  - *Charge limit* – stops at 60/70/80/90% and resumes when it drops 5%, so the battery isn't kept at 100%
+  - Re-applies automatically after plugging/unplugging or waking from sleep, always returns to normal charging when the app exits, and shows the current status at a glance
 - **Desktop control with the gamepad** – remappable buttons, on-screen keyboard
 - **Performance overlay** – FPS, CPU, GPU, RAM, power, temperature, battery, clock
 - **Device & driver check** – links to official download pages (never installs drivers by itself)
@@ -293,7 +308,10 @@ This is an unofficial app made by an individual developer and is not affiliated 
 
 - **主页** – 带封面显示 Steam / Epic Games / GOG 的游戏，并可直接启动
 - **快捷设置** – 按下"水"键，面板从屏幕右侧滑出：性能（TDP 预设）、帧率限制（30/40/45/60）、亮度、音量、刷新率、分辨率、Wi-Fi / 蓝牙 / 飞行模式
-- **旁路充电与充电上限**（60–90%）– 插着充电器游玩时，减轻电池负担
+- **呵护电池与机身的充电** – 像水一样温柔：
+  - *旁路充电* – 不给电池充电，直接由充电器供电，减少长时间插电游玩时的发热与电池损耗
+  - *充电上限* – 充到 60/70/80/90% 即停止，下降 5% 后再继续，避免电池长期满电
+  - 插拔充电器或从睡眠唤醒后自动重新应用；退出应用时一定恢复正常充电；当前状态一目了然
 - **用手柄操作电脑** – 可自定义按键，屏幕键盘
 - **性能显示** – FPS、CPU、GPU、内存、功耗、温度、电量、时间
 - **设备与驱动检查** – 引导至官方下载页面（不会自动安装驱动）
@@ -314,7 +332,10 @@ This is an unofficial app made by an individual developer and is not affiliated 
 
 - **홈 화면** – Steam / Epic Games / GOG 게임을 표지와 함께 표시하고 바로 실행
 - **빠른 설정** – "水" 버튼을 누르면 화면 오른쪽에서 패널이 나타납니다: 성능(TDP 프리셋), FPS 제한(30/40/45/60), 밝기, 음량, 주사율, 해상도, Wi-Fi / Bluetooth / 비행기 모드
-- **바이패스 충전·충전 상한**(60–90%) – 충전기를 연결한 채 플레이할 때 배터리 부담을 줄입니다
+- **배터리와 본체에 부드러운 충전** – 물처럼 부드럽게:
+  - *바이패스* – 배터리를 충전하지 않고 충전기 전원으로 직접 구동해, 오래 연결해서 플레이할 때의 발열과 열화를 줄입니다
+  - *충전 상한* – 60/70/80/90%에서 멈추고 5% 내려가면 다시 충전. 배터리를 100%로 계속 두지 않아 오래 갑니다
+  - 충전기 연결·분리나 절전 해제 후 자동 재적용, 앱 종료 시 반드시 일반 충전으로 복귀, 현재 상태를 한눈에 표시
 - **컨트롤러로 PC 조작** – 버튼 재지정, 화상 키보드
 - **성능 표시** – FPS, CPU, GPU, 메모리, 소비 전력, 온도, 배터리, 시각
 - **장치·드라이버 점검** – 공식 다운로드 페이지로 안내(드라이버를 자동으로 설치하지 않음)
