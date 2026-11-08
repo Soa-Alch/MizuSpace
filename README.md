@@ -6,7 +6,9 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 *An unofficial launcher for SuiPlay0X1 running Windows 11. [English summary below](#english)*
 
 > [!NOTE]
-> 現在開発中です（Ver. 0.7h テスト中）。配布を始めるときは、このページの Releases でお知らせします。
+> 現在開発中です（Ver. 0.7 系をテスト中）。配布を始めるときは、このページの Releases でお知らせします。
+
+<p align="center"><img src="images/home_en.png" width="800" alt="水 Space home screen"></p>
 
 ---
 
@@ -16,6 +18,8 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 - 本体のホームボタンで、いつでもホーム画面を呼び出せます
 - Steam・Epic Games・GOG のゲームを表紙付きで一覧にして、そのまま起動
 - ゲームを閉じると、元の操作状態に自動で戻ります
+
+<img src="images/games_ja.png" width="640" alt="ゲーム一覧">
 
 ### ⚡ クイック設定
 本体の「水」ボタンを押すと、画面の右からパネルがスライドして出てきます。ゲーム中でもすぐ変更できます。
@@ -28,11 +32,18 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 | 電池 | バイパス充電、充電上限 |
 | システム | テーマ・言語・背景画像など |
 
+<table><tr>
+<td><img src="images/quick_perf_ja.png" alt="クイック設定：性能"></td>
+<td><img src="images/quick_battery_ja.png" alt="クイック設定：電池"></td>
+</tr><tr><td align="center">性能タブ</td><td align="center">電池タブ</td></tr></table>
+
 ### 🔋 バイパス充電・充電上限
 - 充電器をつないだまま遊ぶときに、バッテリーへの負担を減らす「バイパス充電」
 - 60／70／80／90% で充電を止める「充電上限」
 - 充電器の抜き差しやスリープからの復帰のあとも、自動でかけ直します
 - アプリを終了すると、必ず通常の充電に戻ります
+
+<img src="images/charge_ja.png" width="640" alt="充電の設定">
 
 ### 🎮 コントローラーでパソコン操作
 - スティックでマウス、ボタンでクリック。デスクトップもコントローラーだけで操作できます
@@ -43,18 +54,35 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 - FPS・CPU・GPU・メモリ・消費電力・温度・電池残量・時刻を、画面の隅に表示
 - 表示位置と背景の濃さを選べます
 
+<img src="images/overlay_game_1.jpg" width="800" alt="ゲーム中のパフォーマンス表示">
+
+<sub>右上がパフォーマンス表示です。</sub>
+
 ### 🩺 動作チェック・ドライバチェック
 - ボタン・スティック・振動の動作確認
 - ドライバの状態を診断し、古いものや足りないものがあれば公式のダウンロードページへ案内します（勝手にドライバを入れることはしません）
+
+<table><tr>
+<td><img src="images/driver_ja.png" alt="ドライバチェック"></td>
+<td><img src="images/diag_en.png" alt="動作チェック"></td>
+</tr><tr><td align="center">ドライバチェック</td><td align="center">動作チェック</td></tr></table>
 
 ### 🎨 見た目
 - テーマはダーク／ライト／Windows に合わせる、から選べます
 - 好きな画像をガラス越しのような背景にできます。ホーム画面とクイック設定で、見せる位置・拡大・ぼかしを別々に調整
 - 8 言語対応：日本語・English・简体中文・繁體中文・한국어・Español・Français・Deutsch
 
+<table><tr>
+<td><img src="images/settings_en.png" alt="English"></td>
+<td><img src="images/settings_ko.png" alt="한국어"></td>
+<td><img src="images/home_zh.png" alt="简体中文"></td>
+</tr><tr><td align="center">English</td><td align="center">한국어</td><td align="center">简体中文</td></tr></table>
+
 ### 📦 かんたんインストール
 - exe 1 つで、インストール・更新・アンインストールができます
 - Windows の起動時に自動で立ち上がります（オフにもできます）
+
+<img src="images/installer_ja.png" width="640" alt="インストーラー">
 
 ---
 
@@ -197,9 +225,17 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 - **Performance overlay** – FPS, CPU, GPU, RAM, power, temperature, battery, clock
 - **Device & driver check** – links to official download pages (never installs drivers by itself)
 - **Themes & wallpaper**, **8 languages**, one-exe installer
-- Runs **only on SuiPlay0X1**. Currently in development (Ver. 0.7h).
+- Runs **only on SuiPlay0X1**. Currently in development (Ver. 0.7 series).
 
 This is an unofficial app made by an individual developer and is not affiliated with the device manufacturer.
+
+<table><tr>
+<td><img src="images/quick_perf_en.png" alt="Quick settings - Performance"></td>
+<td><img src="images/quick_battery_en.png" alt="Quick settings - Battery"></td>
+</tr><tr>
+<td><img src="images/driver_en.png" alt="Driver check"></td>
+<td><img src="images/overlay_game_2.jpg" alt="Performance overlay in game"></td>
+</tr></table>
 
 ---
 
