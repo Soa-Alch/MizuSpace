@@ -3,10 +3,11 @@
 **SuiPlay0X1 用の非公式ランチャー**
 Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うためのアプリです。
 
-*An unofficial launcher for SuiPlay0X1 running Windows 11. [English summary below](#english)*
+*An unofficial launcher for SuiPlay0X1 running Windows 11.*
+[English](#english) ・ [简体中文](#简体中文) ・ [한국어](#한국어)
 
 > [!NOTE]
-> 現在開発中です（Ver. 0.7 系をテスト中）。配布を始めるときは、このページの Releases でお知らせします。
+> 現在開発中です（Ver. 0.8 系をテスト中）。配布を始めるときは、このページの Releases でお知らせします。
 
 <p align="center"><img src="images/home_en.png" width="800" alt="水 Space home screen"></p>
 
@@ -26,7 +27,7 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 
 | タブ | できること |
 |---|---|
-| 性能 | 省電力／バランス／性能のプリセット、消費電力（TDP）の細かい調整 |
+| 性能 | 省電力／バランス／性能のプリセット、消費電力（TDP）の細かい調整、FPS 制限 |
 | デバイス | 明るさ・音量・リフレッシュレート・解像度、Wi-Fi・Bluetooth・機内モード |
 | 操作 | コントローラーでのパソコン操作、ボタンの割り当て |
 | 電池 | バイパス充電、充電上限 |
@@ -36,6 +37,11 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 <td><img src="images/quick_perf_ja.png" alt="クイック設定：性能"></td>
 <td><img src="images/quick_battery_ja.png" alt="クイック設定：電池"></td>
 </tr><tr><td align="center">性能タブ</td><td align="center">電池タブ</td></tr></table>
+
+### 🎯 FPS 制限
+- クイック設定のスイッチひとつで、FPS の上限をオン／オフ
+- 30／40／45／60 FPS から選べます。電池を長持ちさせたいときや、本体の発熱を抑えたいときに
+- AMD のドライバ標準の機能を使うので、ゲームごとの設定はいりません
 
 ### 🔋 バイパス充電・充電上限
 - 充電器をつないだまま遊ぶときに、バッテリーへの負担を減らす「バイパス充電」
@@ -100,10 +106,22 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 新しい順に並べています。▶ を押すと各版の内容が開きます。
 
 <details open>
+<summary><b>Ver. 0.8 系</b>（2026/11）― FPS 制限</summary>
+
+| 版 | 内容 |
+|---|---|
+| 0.8b | **FPS 制限**：クイック設定のスイッチでオン／オフ、30／40／45／60 FPS から選べるように |
+| 0.8a | FPS 制限の準備：今の FPS 制限の状態を、クイック設定と動作チェックに表示 |
+
+</details>
+
+<details>
 <summary><b>Ver. 0.7 系</b>（2026/11）― ドライバチェック・背景画像・仕上げ</summary>
 
 | 版 | 内容 |
 |---|---|
+| 0.7j | 消費電力の表示を改善。今の消費電力がすぐ分かるように |
+| 0.7i | クイック設定の性能タブで、消費電力の数字が消えることがある不具合を修正 |
 | 0.7h | 画面を ✕ で閉じた直後に、裏のゲームが誤って起動してしまう不具合を修正。水 Space の画面の上ではマウスカーソルを隠すように（マウスやリモート操作のときは表示、タッチには影響なし） |
 | 0.7g | 背景の調整に「既定に戻す」を追加 |
 | 0.7f | 背景のぼかしの強さを調整できるように（0〜100%） |
@@ -207,6 +225,12 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 
 ---
 
+## 今後の予定
+
+🌈 **現在、スティックの LED ライティング（ライトの色の変更）に挑戦中です。** お楽しみに！
+
+---
+
 ## ご注意
 - 本アプリは個人が開発した**非公式**のアプリです。SuiPlay0X1 のメーカーとは関係ありません。
 - BIOS などのファームウェアを書き換えることはありません。
@@ -219,13 +243,13 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 **水 Space (MizuSpace)** is an unofficial launcher for the SuiPlay0X1 running Windows 11.
 
 - **Home screen** – launch your Steam / Epic Games / GOG games with cover art
-- **Quick settings** – press the "水" button for a slide-in panel: performance (TDP presets), brightness, volume, refresh rate, resolution, Wi-Fi / Bluetooth / airplane mode
+- **Quick settings** – press the "水" button for a slide-in panel: performance (TDP presets), FPS limit (30/40/45/60), brightness, volume, refresh rate, resolution, Wi-Fi / Bluetooth / airplane mode
 - **Bypass charging & charge limit** (60–90%) – reduces battery wear while playing plugged in
 - **Desktop control with the gamepad** – remappable buttons, on-screen keyboard
 - **Performance overlay** – FPS, CPU, GPU, RAM, power, temperature, battery, clock
 - **Device & driver check** – links to official download pages (never installs drivers by itself)
 - **Themes & wallpaper**, **8 languages**, one-exe installer
-- Runs **only on SuiPlay0X1**. Currently in development (Ver. 0.7 series).
+- Runs **only on SuiPlay0X1**. Currently in development (Ver. 0.8 series).
 
 This is an unofficial app made by an individual developer and is not affiliated with the device manufacturer.
 
@@ -236,6 +260,46 @@ This is an unofficial app made by an individual developer and is not affiliated 
 <td><img src="images/driver_en.png" alt="Driver check"></td>
 <td><img src="images/overlay_game_2.jpg" alt="Performance overlay in game"></td>
 </tr></table>
+
+**Coming next:** we're working on stick LED lighting (changing the light color). Stay tuned!
+
+---
+
+## 简体中文
+
+**水 Space（MizuSpace）** 是一款为运行 Windows 11 的 SuiPlay0X1 打造的非官方启动器。
+
+- **主页** – 带封面显示 Steam / Epic Games / GOG 的游戏，并可直接启动
+- **快捷设置** – 按下"水"键，面板从屏幕右侧滑出：性能（TDP 预设）、帧率限制（30/40/45/60）、亮度、音量、刷新率、分辨率、Wi-Fi / 蓝牙 / 飞行模式
+- **旁路充电与充电上限**（60–90%）– 插着充电器游玩时，减轻电池负担
+- **用手柄操作电脑** – 可自定义按键，屏幕键盘
+- **性能显示** – FPS、CPU、GPU、内存、功耗、温度、电量、时间
+- **设备与驱动检查** – 引导至官方下载页面（不会自动安装驱动）
+- **主题与壁纸**、**8 种语言**、单个 exe 即可安装
+- **仅支持 SuiPlay0X1**。目前正在开发中（Ver. 0.8 系列）。
+
+本应用由个人开发者制作，属于非官方应用，与设备制造商无关。
+
+**今后的计划：** 正在挑战摇杆 LED 灯光（更改灯光颜色）。敬请期待！
+
+---
+
+## 한국어
+
+**水 Space(MizuSpace)**는 Windows 11을 설치한 SuiPlay0X1용 비공식 런처입니다.
+
+- **홈 화면** – Steam / Epic Games / GOG 게임을 표지와 함께 표시하고 바로 실행
+- **빠른 설정** – "水" 버튼을 누르면 화면 오른쪽에서 패널이 나타납니다: 성능(TDP 프리셋), FPS 제한(30/40/45/60), 밝기, 음량, 주사율, 해상도, Wi-Fi / Bluetooth / 비행기 모드
+- **바이패스 충전·충전 상한**(60–90%) – 충전기를 연결한 채 플레이할 때 배터리 부담을 줄입니다
+- **컨트롤러로 PC 조작** – 버튼 재지정, 화상 키보드
+- **성능 표시** – FPS, CPU, GPU, 메모리, 소비 전력, 온도, 배터리, 시각
+- **장치·드라이버 점검** – 공식 다운로드 페이지로 안내(드라이버를 자동으로 설치하지 않음)
+- **테마와 배경 화면**, **8개 언어**, exe 하나로 설치
+- **SuiPlay0X1 전용**입니다. 현재 개발 중(Ver. 0.8 시리즈).
+
+개인 개발자가 만든 비공식 앱이며, 기기 제조사와는 관계가 없습니다.
+
+**앞으로의 계획:** 스틱 LED 조명(조명 색상 변경)에 도전하고 있습니다. 기대해 주세요!
 
 ---
 
