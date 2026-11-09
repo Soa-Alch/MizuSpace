@@ -50,6 +50,19 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 - 30／40／45／60 FPS から選べます。電池を長持ちさせたいときや、本体の発熱を抑えたいときに
 - AMD のドライバ標準の機能を使うので、ゲームごとの設定はいりません
 
+### 🌈 スティックのライト
+- スティックまわりのライトを、9 色（空色・白・赤・橙・黄・緑・青・紫・桃）から好きな色に
+- 明るさを細かく調整。「完全オフ」もワンタッチ
+- 「初期値に戻す」で、本体もとの光り方に戻せます
+- 起動時やスリープから戻ったときも、選んだ色をそのまま保ちます
+- 画面の見本と同じ色に見えるよう、本体のライトに合わせて色を調整しています
+
+<table><tr>
+<td><img src="images/led_orange.jpg" alt="橙"></td>
+<td><img src="images/led_pink.jpg" alt="桃"></td>
+<td><img src="images/led_green.jpg" alt="緑"></td>
+</tr><tr><td align="center">橙</td><td align="center">桃</td><td align="center">緑</td></tr></table>
+
 ### 💧 バッテリーと本体にやさしい充電 ― バイパス充電・充電上限
 水が器に合わせて形を変えるように、遊び方に合わせて充電のしかたを選べます。
 バッテリーの劣化や本体の発熱をおさえて、SuiPlay0X1 を**長く大切に使う**ための機能です。
@@ -125,10 +138,20 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 新しい順に並べています。▶ を押すと各版の内容が開きます。
 
 <details open>
-<summary><b>Ver. 0.8 系</b>（2026/11）― FPS 制限</summary>
+<summary><b>Ver. 0.8 系</b>（2026/11）― FPS 制限・スティックのライト</summary>
 
 | 版 | 内容 |
 |---|---|
+| 0.8l | 追加で開いた画面は、水ボタン・ホームボタンでまず閉じるように |
+| 0.8k | 横に並んだ選択肢（ライトの色など）が、端まで行くと反対側に戻るように |
+| 0.8j | ゲーム中のパフォーマンス表示を軽く。重いゲームでカクつく件を改善 |
+| 0.8i | 背景の画像を選ぶとき、コントローラーとマウスを続けて使うと固まることがある不具合を修正 |
+| 0.8h | ライトの色を、画面の見本どおりに見えるよう調整 |
+| 0.8g | 動作チェックを 2 ページ（コントローラー／本体・状態）に整理 |
+| 0.8f | ライトの色の切り替え、「完全オフ」「初期値に戻す」を追加 |
+| 0.8e | **スティックのライト**：明るさ・オン／オフを本体に反映。起動時とスリープ復帰でも設定を保つ |
+| 0.8d | スティックのライトの準備：本体の状態を読み取れるように |
+| 0.8c | スティックのライトの準備：確認用の機能を追加 |
 | 0.8b | **FPS 制限**：クイック設定のスイッチでオン／オフ、30／40／45／60 FPS から選べるように |
 | 0.8a | FPS 制限の準備：今の FPS 制限の状態を、クイック設定と動作チェックに表示 |
 
@@ -246,7 +269,9 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 
 ## 今後の予定
 
-🌈 **現在、スティックの LED ライティング（ライトの色の変更）に挑戦中です。** お楽しみに！
+🌈 **スティックの LED ライティングが完成しました！**（0.8 系）
+
+次の新しい機能も準備中です。お楽しみに！
 
 ---
 
@@ -281,6 +306,7 @@ SuiPlay0X1 を Windows 化して使い始めたとき、**本体の設定をま�
   - *Charge limit* – stops at 60/70/80/90% and resumes when it drops 5%, so the battery isn't kept at 100%
   - Re-applies automatically after plugging/unplugging or waking from sleep, always returns to normal charging when the app exits, and shows the current status at a glance
 - **Desktop control with the gamepad** – remappable buttons, on-screen keyboard
+- **Stick LED lighting** – 9 colors, brightness, full off; keeps your color after boot and sleep
 - **Performance overlay** – FPS, CPU, GPU, RAM, power, temperature, battery, clock
 - **Device & driver check** – links to official download pages (never installs drivers by itself)
 - **Themes & wallpaper**, **8 languages**, one-exe installer
@@ -298,7 +324,7 @@ This is an unofficial app made by an individual developer and is not affiliated 
 <td><img src="images/overlay_game_2.jpg" alt="Performance overlay in game"></td>
 </tr></table>
 
-**Coming next:** we're working on stick LED lighting (changing the light color). Stay tuned!
+**News:** stick LED lighting is now done! More new features are on the way – stay tuned!
 
 ---
 
@@ -313,6 +339,7 @@ This is an unofficial app made by an individual developer and is not affiliated 
   - *充电上限* – 充到 60/70/80/90% 即停止，下降 5% 后再继续，避免电池长期满电
   - 插拔充电器或从睡眠唤醒后自动重新应用；退出应用时一定恢复正常充电；当前状态一目了然
 - **用手柄操作电脑** – 可自定义按键，屏幕键盘
+- **摇杆灯光** – 9 种颜色、亮度调节、完全关闭，开机和睡眠唤醒后也会保持设置
 - **性能显示** – FPS、CPU、GPU、内存、功耗、温度、电量、时间
 - **设备与驱动检查** – 引导至官方下载页面（不会自动安装驱动）
 - **主题与壁纸**、**8 种语言**、单个 exe 即可安装
@@ -322,7 +349,7 @@ This is an unofficial app made by an individual developer and is not affiliated 
 
 **关于开发者** – 我是来自日本的个人开发者 **Soa（SoaAlch）**，热爱掌机 PC。在 Windows 上使用 SuiPlay0X1 时，发现没有能统一管理本机设置的启动器，于是自己做了一个。目标是做出像水一样温和、即使是全新的 SuiPlay0X1 也能轻松上手的应用。
 
-**今后的计划：** 正在挑战摇杆 LED 灯光（更改灯光颜色）。敬请期待！
+**最新消息：** 摇杆 LED 灯光功能已完成！更多新功能正在准备中，敬请期待！
 
 ---
 
@@ -337,6 +364,7 @@ This is an unofficial app made by an individual developer and is not affiliated 
   - *충전 상한* – 60/70/80/90%에서 멈추고 5% 내려가면 다시 충전. 배터리를 100%로 계속 두지 않아 오래 갑니다
   - 충전기 연결·분리나 절전 해제 후 자동 재적용, 앱 종료 시 반드시 일반 충전으로 복귀, 현재 상태를 한눈에 표시
 - **컨트롤러로 PC 조작** – 버튼 재지정, 화상 키보드
+- **스틱 조명** – 9가지 색상, 밝기 조절, 완전 끄기. 부팅·절전 해제 후에도 설정 유지
 - **성능 표시** – FPS, CPU, GPU, 메모리, 소비 전력, 온도, 배터리, 시각
 - **장치·드라이버 점검** – 공식 다운로드 페이지로 안내(드라이버를 자동으로 설치하지 않음)
 - **테마와 배경 화면**, **8개 언어**, exe 하나로 설치
@@ -346,7 +374,7 @@ This is an unofficial app made by an individual developer and is not affiliated 
 
 **개발자 소개** – 안녕하세요, 일본에서 개인 개발을 하고 있는 **Soa(SoaAlch)**입니다. 휴대용 게이밍 PC를 좋아합니다. SuiPlay0X1을 Windows로 쓰기 시작했을 때 본체 설정을 한곳에서 조작할 수 있는 런처가 없어서 직접 만들었습니다. 물처럼 부드럽고, 처음 쓰는 SuiPlay0X1에서도 헤매지 않는 앱을 목표로 하고 있습니다.
 
-**앞으로의 계획:** 스틱 LED 조명(조명 색상 변경)에 도전하고 있습니다. 기대해 주세요!
+**새 소식:** 스틱 LED 조명이 완성되었습니다! 새로운 기능도 준비 중이니 기대해 주세요!
 
 ---
 
