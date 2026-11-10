@@ -278,13 +278,14 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 ## 開発者について
 
 はじめまして、**そあ（SoaAlch）** です。日本で個人開発をしています。
-ゲームとものづくりが好きで、壊れたものは直し、ないものは作る習性があります。PC や機械の修理、オーディオ、子どものおもちゃ作りなども楽しんでいます。活動の様子は [YouTube](https://www.youtube.com/@SoaAlch) でも発信しています。
+ゲームとものづくりが好きで、壊れたものは直し、ないものは作る習性があります。PC や機械の修理、オーディオ、子どものおもちゃ作りなども楽しんでいます。作業机という名の巣には、いつも直しかけの何かが転がっています。活動の様子は [YouTube](https://www.youtube.com/@SoaAlch) でも発信しています。
 
 携帯ゲーミングPC は、AYANEO の AIR シリーズ（AIR・Pro・Plus・1S）、2／2S、Retro Power、FLIP シリーズ（HX 370 搭載機まで）など、Windows 機をほぼひととおり使ってきました。SuiPlay0X1 と OneXFly は予備も含めて複数台あります。その経験から見えた「良いところ」と「困るところ」を、水 Space に注いでいます。
 
 SuiPlay0X1 を Windows 化したとき、本体の設定をまとめて操作できるランチャーが無く、「同じことで困っている人がきっといる」と思って作り始めました。目指しているのは、**水のようにやさしく、まっさらな SuiPlay0X1 でも迷わないアプリ**です。
 
-ブランド名の「Alch」は、錬金術（Alchemy）から。壊れたものに命を吹き込み、ないものを錬成する。そんなものづくりを、これからも続けていきます。
+ブランド名の「Alch」は、錬金術（Alchemy）から。壊れたものに命を吹き込み、ないものを錬成する。
+今日も巣の中で、何かを直したり作ったりしています 💧
 
 ---
 
@@ -314,7 +315,7 @@ SuiPlay0X1 を Windows 化したとき、本体の設定をまとめて操作で
 
 This is an unofficial app made by an individual developer and is not affiliated with the device manufacturer.
 
-**About the developer** – Hi, I'm **Soa (SoaAlch)**, an indie developer in Japan. I fix what's broken and make what doesn't exist. I love games and hands-on making – repairing PCs and gadgets (I often fix up junk finds and give them to friends), choosing audio gear with care, and building toys for kids. I've used almost every Windows handheld – the AYANEO AIR series (AIR / Pro / Plus / 1S), AYANEO 2 / 2S, Retro Power, the FLIP series up to HX 370 models and more – and I keep several SuiPlay0X1 and OneXFly units on hand. When I started using my SuiPlay0X1 on Windows, there was no launcher to control the device in one place – so I built one. My goal is an app that feels gentle like water and is easy to use even on a fresh SuiPlay0X1.
+**About the developer** – Hi, I'm **Soa (SoaAlch)**, an indie developer in Japan. I fix what's broken and make what doesn't exist. I love games and hands-on making – repairing PCs and gadgets (I often fix up junk finds and give them to friends), choosing audio gear with care, and building toys for kids. My desk (more like a nest) is always covered in half-fixed gadgets. I've used almost every Windows handheld – the AYANEO AIR series (AIR / Pro / Plus / 1S), AYANEO 2 / 2S, Retro Power, the FLIP series up to HX 370 models and more – and I keep several SuiPlay0X1 and OneXFly units on hand. When I started using my SuiPlay0X1 on Windows, there was no launcher to control the device in one place – so I built one. My goal is an app that feels gentle like water and is easy to use even on a fresh SuiPlay0X1.
 
 <table><tr>
 <td><img src="images/quick_perf_en.png" alt="Quick settings - Performance"></td>
@@ -347,7 +348,7 @@ This is an unofficial app made by an individual developer and is not affiliated 
 
 本应用由个人开发者制作，属于非官方应用，与设备制造商无关。
 
-**关于开发者** – 我是来自日本的个人开发者 **Soa（SoaAlch）**。坏了就修，没有就造，是我的习惯。喜欢游戏，也喜欢动手：修理电脑和各种机器（常把修好的旧货送给朋友）、用心挑选音频设备、给孩子做玩具。我几乎用过所有 Windows 掌机：AYANEO AIR 系列（AIR / Pro / Plus / 1S）、AYANEO 2 / 2S、Retro Power、FLIP 系列（直到 HX 370 机型）等，手边还备有多台 SuiPlay0X1 和 OneXFly。在 Windows 上使用 SuiPlay0X1 时，发现没有能统一管理本机设置的启动器，于是自己做了一个。目标是做出像水一样温和、即使是全新的 SuiPlay0X1 也能轻松上手的应用。
+**关于开发者** – 我是来自日本的个人开发者 **Soa（SoaAlch）**。坏了就修，没有就造，是我的习惯。喜欢游戏，也喜欢动手：修理电脑和各种机器（常把修好的旧货送给朋友）、用心挑选音频设备、给孩子做玩具。我的工作台（说是窝也不为过）上，总堆着修到一半的小东西。我几乎用过所有 Windows 掌机：AYANEO AIR 系列（AIR / Pro / Plus / 1S）、AYANEO 2 / 2S、Retro Power、FLIP 系列（直到 HX 370 机型）等，手边还备有多台 SuiPlay0X1 和 OneXFly。在 Windows 上使用 SuiPlay0X1 时，发现没有能统一管理本机设置的启动器，于是自己做了一个。目标是做出像水一样温和、即使是全新的 SuiPlay0X1 也能轻松上手的应用。
 
 **最新消息：** 摇杆 LED 灯光功能已完成！更多新功能正在准备中，敬请期待！
 
@@ -372,7 +373,7 @@ This is an unofficial app made by an individual developer and is not affiliated 
 
 개인 개발자가 만든 비공식 앱이며, 기기 제조사와는 관계가 없습니다.
 
-**개발자 소개** – 안녕하세요, 일본에서 개인 개발을 하고 있는 **Soa(SoaAlch)**입니다. 고장 난 건 고치고, 없는 건 만드는 성격입니다. 게임과 손으로 무언가를 고치고 만드는 일을 좋아합니다. PC와 기계 수리(고친 정크 제품을 지인에게 주기도 합니다), 오디오 고르기, 아이들 장난감 만들기도 즐깁니다. AYANEO AIR 시리즈(AIR / Pro / Plus / 1S), AYANEO 2 / 2S, Retro Power, FLIP 시리즈(HX 370 탑재 모델까지) 등 Windows 휴대용 게이밍 PC는 거의 다 직접 써 왔고, SuiPlay0X1과 OneXFly는 예비까지 여러 대 갖고 있습니다. SuiPlay0X1을 Windows로 쓰기 시작했을 때 본체 설정을 한곳에서 조작할 수 있는 런처가 없어서 직접 만들었습니다. 물처럼 부드럽고, 처음 쓰는 SuiPlay0X1에서도 헤매지 않는 앱을 목표로 하고 있습니다.
+**개발자 소개** – 안녕하세요, 일본에서 개인 개발을 하고 있는 **Soa(SoaAlch)**입니다. 고장 난 건 고치고, 없는 건 만드는 성격입니다. 게임과 손으로 무언가를 고치고 만드는 일을 좋아합니다. PC와 기계 수리(고친 정크 제품을 지인에게 주기도 합니다), 오디오 고르기, 아이들 장난감 만들기도 즐깁니다. 작업대(사실상 둥지)에는 늘 고치다 만 물건들이 굴러다닙니다. AYANEO AIR 시리즈(AIR / Pro / Plus / 1S), AYANEO 2 / 2S, Retro Power, FLIP 시리즈(HX 370 탑재 모델까지) 등 Windows 휴대용 게이밍 PC는 거의 다 직접 써 왔고, SuiPlay0X1과 OneXFly는 예비까지 여러 대 갖고 있습니다. SuiPlay0X1을 Windows로 쓰기 시작했을 때 본체 설정을 한곳에서 조작할 수 있는 런처가 없어서 직접 만들었습니다. 물처럼 부드럽고, 처음 쓰는 SuiPlay0X1에서도 헤매지 않는 앱을 목표로 하고 있습니다.
 
 **새 소식:** 스틱 LED 조명이 완성되었습니다! 새로운 기능도 준비 중이니 기대해 주세요!
 
