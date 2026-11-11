@@ -2,8 +2,9 @@
 
 **SuiPlay0X1 用の非公式ランチャー**
 Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うためのアプリです。
+BIOS の書き換えなど、難しい作業は一切不要。**インストールするだけで、誰でもすぐに使えます。**
 
-*An unofficial launcher for SuiPlay0X1 running Windows 11.*
+*An unofficial launcher for SuiPlay0X1 running Windows 11. No BIOS flashing – just install and play.*
 [English](#english) ・ [简体中文](#简体中文) ・ [한국어](#한국어)
 
 > [!NOTE]
@@ -117,6 +118,7 @@ Windows 化した SuiPlay0X1 を、ゲーム機らしく快適に使うための
 </tr><tr><td align="center">English</td><td align="center">한국어</td><td align="center">简体中文</td></tr></table>
 
 ### 📦 かんたんインストール
+- BIOS の書き換えや難しい設定は不要。インストールするだけで使えます
 - exe 1 つで、インストール・更新・アンインストールができます
 - Windows の起動時に自動で立ち上がります（オフにもできます）
 
@@ -297,7 +299,7 @@ SuiPlay0X1 を Windows 化したとき、本体の設定をまとめて操作で
 
 ## English
 
-**水 Space (MizuSpace)** is an unofficial launcher for the SuiPlay0X1 running Windows 11.
+**水 Space (MizuSpace)** is an unofficial launcher for the SuiPlay0X1 running Windows 11. No BIOS flashing or tricky setup – just install it and you're ready to go.
 
 - **Home screen** – launch your Steam / Epic Games / GOG games with cover art
 - **Quick settings** – press the "水" button for a slide-in panel: performance (TDP presets), FPS limit (30/40/45/60), brightness, volume, refresh rate, resolution, Wi-Fi / Bluetooth / airplane mode
@@ -330,7 +332,7 @@ This is an unofficial app made by an individual developer and is not affiliated 
 
 ## 简体中文
 
-**水 Space（MizuSpace）** 是一款为运行 Windows 11 的 SuiPlay0X1 打造的非官方启动器。
+**水 Space（MizuSpace）** 是一款为运行 Windows 11 的 SuiPlay0X1 打造的非官方启动器。无需刷写 BIOS，也不需要复杂设置——安装即可使用。
 
 - **主页** – 带封面显示 Steam / Epic Games / GOG 的游戏，并可直接启动
 - **快捷设置** – 按下"水"键，面板从屏幕右侧滑出：性能（TDP 预设）、帧率限制（30/40/45/60）、亮度、音量、刷新率、分辨率、Wi-Fi / 蓝牙 / 飞行模式
@@ -355,7 +357,7 @@ This is an unofficial app made by an individual developer and is not affiliated 
 
 ## 한국어
 
-**水 Space(MizuSpace)**는 Windows 11을 설치한 SuiPlay0X1용 비공식 런처입니다.
+**水 Space(MizuSpace)**는 Windows 11을 설치한 SuiPlay0X1용 비공식 런처입니다. BIOS를 수정할 필요도, 어려운 설정도 없습니다. 설치만 하면 바로 쓸 수 있습니다.
 
 - **홈 화면** – Steam / Epic Games / GOG 게임을 표지와 함께 표시하고 바로 실행
 - **빠른 설정** – "水" 버튼을 누르면 화면 오른쪽에서 패널이 나타납니다: 성능(TDP 프리셋), FPS 제한(30/40/45/60), 밝기, 음량, 주사율, 해상도, Wi-Fi / Bluetooth / 비행기 모드
