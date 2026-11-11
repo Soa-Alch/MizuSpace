@@ -16,6 +16,9 @@ BIOS の書き換えなど、難しい作業は一切不要。**インストー�
 > *Coming soon* – Launch price **$9.99** (planned) → regular $14.99<br>
 > *即将发售* – 首发优惠价 **9.99 美元**（计划）→ 正常价格 14.99 美元<br>
 > *곧 판매 예정* – 출시 기념가 **9.99달러**(예정) → 정가 14.99달러
+>
+> 🎁 **BOOTH 限定の特別価格**もご用意します（手数料が安い分を還元）<br>
+> *Special lower price on BOOTH* ・ *BOOTH 专享特价* ・ *BOOTH 한정 특가*
 
 <p align="center"><img src="images/home_en.png" width="800" alt="水 Space home screen"></p>
 
@@ -123,6 +126,21 @@ BIOS の書き換えなど、難しい作業は一切不要。**インストー�
 - Windows の起動時に自動で立ち上がります（オフにもできます）
 
 <img src="images/installer_ja.png" width="640" alt="インストーラー">
+
+---
+
+## 🛒 購入について
+
+### 🎁 BOOTH 限定の特別価格
+BOOTH は販売手数料が安いため、その分を価格に還元して、**BOOTH だけ特別価格**でお届けする予定です。
+
+### BOOTH ってどんなところ？
+海外の方も安心してご利用いただけます。
+- 日本の大手クリエイター向けサービス「pixiv」が運営する、実績のあるマーケットです
+- ダウンロード商品なので、発送や住所の入力は不要。購入後すぐにダウンロードできます
+- 支払いは PayPal や、海外で使えるクレジットカードに対応。日本円の価格は、カード会社や PayPal で自動的に換算されます
+- サイトの表示は英語などにも切り替えられます
+- 購入には無料の pixiv アカウントが必要です
 
 ---
 
@@ -328,6 +346,14 @@ This is an unofficial app made by an individual developer and is not affiliated 
 
 **News:** stick LED lighting is now done! More new features are on the way – stay tuned!
 
+**🎁 Special price on BOOTH** – BOOTH charges lower fees, so I'll pass the savings on to you with a BOOTH-only lower price.
+
+**About BOOTH** – a trusted marketplace run by pixiv, one of Japan's leading creator platforms.
+- Digital download: no shipping or address needed – download right after purchase
+- Pay with PayPal or an international credit card; JPY prices are converted automatically by your card company or PayPal
+- The site can be switched to English
+- A free pixiv account is required to purchase
+
 ---
 
 ## 简体中文
@@ -353,6 +379,14 @@ This is an unofficial app made by an individual developer and is not affiliated 
 
 **最新消息：** 摇杆 LED 灯光功能已完成！更多新功能正在准备中，敬请期待！
 
+**🎁 BOOTH 专享特价** – BOOTH 的手续费较低，我会把省下的部分回馈给大家，在 BOOTH 以更优惠的价格销售。
+
+**关于 BOOTH** – 由日本知名创作者平台 pixiv 运营、值得信赖的商店。
+- 数字下载商品：无需配送，也无需填写地址，购买后即可下载
+- 支持 PayPal 和可境外使用的信用卡；日元价格会由发卡行或 PayPal 自动换算
+- 网站可切换为英文等语言显示
+- 购买需要免费的 pixiv 账号
+
 ---
 
 ## 한국어
@@ -377,6 +411,14 @@ This is an unofficial app made by an individual developer and is not affiliated 
 **개발자 소개** – 안녕하세요, 일본에서 개인 개발을 하고 있는 **Soa(SoaAlch)**입니다. 고장 난 건 고치고, 없는 건 만드는 성격입니다. 게임과 손으로 무언가를 고치고 만드는 일을 좋아합니다. PC와 기계 수리(고친 정크 제품을 지인에게 주기도 합니다), 오디오 고르기, 아이들 장난감 만들기도 즐깁니다. AYANEO AIR 시리즈(AIR / Pro / Plus / 1S), AYANEO 2 / 2S, Retro Power, FLIP 시리즈(HX 370 탑재 모델까지) 등 Windows 휴대용 게이밍 PC는 거의 다 직접 써 왔고, SuiPlay0X1과 OneXFly는 예비까지 여러 대 갖고 있습니다. SuiPlay0X1을 Windows로 쓰기 시작했을 때 본체 설정을 한곳에서 조작할 수 있는 런처가 없어서 직접 만들었습니다. 물처럼 부드럽고, 처음 쓰는 SuiPlay0X1에서도 헤매지 않는 앱을 목표로 하고 있습니다.
 
 **새 소식:** 스틱 LED 조명이 완성되었습니다! 새로운 기능도 준비 중이니 기대해 주세요!
+
+**🎁 BOOTH 한정 특가** – BOOTH는 수수료가 저렴해서, 아낀 만큼 가격에 반영해 BOOTH에서만 더 저렴하게 판매할 예정입니다.
+
+**BOOTH란?** – 일본의 대표적인 크리에이터 플랫폼 pixiv가 운영하는 신뢰할 수 있는 마켓입니다.
+- 다운로드 상품: 배송도 주소 입력도 필요 없고, 구매 후 바로 다운로드할 수 있습니다
+- PayPal과 해외 결제가 가능한 신용카드를 지원합니다. 엔화 가격은 카드사나 PayPal에서 자동으로 환산됩니다
+- 사이트를 영어 등으로 전환해 볼 수 있습니다
+- 구매하려면 무료 pixiv 계정이 필요합니다
 
 ---
 
