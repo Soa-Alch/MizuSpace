@@ -8,7 +8,7 @@ BIOS の書き換えなど、難しい作業は一切不要。**インストー�
 [English](#english) ・ [简体中文](#简体中文) ・ [한국어](#한국어)
 
 > [!NOTE]
-> **近日、販売開始予定です！**（現在 Ver. 0.8 系を最終テスト中）
+> **近日、販売開始予定です！**（現在 Ver. 0.9 系を最終テスト中）
 > 販売開始の際は、このページと [YouTube](https://www.youtube.com/@SoaAlch)・[X](https://x.com/SoaAlch) でお知らせします。
 >
 > 💧 **発売記念価格 9.99ドル（予定）** → 通常価格 14.99ドル（予定）
@@ -112,6 +112,7 @@ BIOS の書き換えなど、難しい作業は一切不要。**インストー�
 ### 🎨 見た目
 - テーマはダーク／ライト／Windows に合わせる、から選べます
 - 好きな画像をガラス越しのような背景にできます。ホーム画面とクイック設定で、見せる位置・拡大・ぼかしを別々に調整
+- **起動時のオープニング**：紺の水面に水滴が落ちて波紋が広がる演出と、水滴の音。設定でオフにしたり、「いま見る」で見返したりできます
 - 8 言語対応：日本語・English・简体中文・繁體中文・한국어・Español・Français・Deutsch
 
 <table><tr>
@@ -158,6 +159,30 @@ BOOTH は販売手数料が安いため、その分を価格に還元して、**
 新しい順に並べています。▶ を押すと各版の内容が開きます。
 
 <details open>
+<summary><b>Ver. 0.9 系</b>（2026/11）― オープニング・軽量化・充電の安定</summary>
+
+| 版 | 内容 |
+|---|---|
+| 0.9p | ライトの黄色を、より黄色らしく調整 |
+| 0.9o | ライトの橙を、より濃く |
+| 0.9n | ホームから水ボタンで開いたクイック設定が、タスクバーの後ろに隠れる不具合を修正 |
+| 0.9m | 動作チェックで、本体上部のボタンの反応も確認できるように |
+| 0.9l | ホームを開いているときに水ボタンを押すと、ホームを閉じてクイック設定を出すように |
+| 0.9k | オープニングをオフにしても、起動時に水の音が鳴る不具合を修正 |
+| 0.9j | 「起動時のオープニング」のスイッチが正しく切り替わらない不具合を修正 |
+| 0.9i | 充電の設定が反映されたら、すぐに「反映待ち」の表示を消すように |
+| 0.9h | 起動直後などに、バイパス充電が不安定になることがある件を改善 |
+| 0.9g | パフォーマンス表示の消費電力を、本体全体の値で表示するように |
+| 0.9f | パフォーマンス表示をさらに軽く。ゲームへの影響を減らしました |
+| 0.9e | オープニングの流れを調整（風の音とともに暗闇が明けてから、水滴が落ちる） |
+| 0.9d | 着水のあとをスローモーションに。跳ね上がったしずくが戻る音を追加 |
+| 0.9c | オープニングの水の動きと音を、よりリアルに（しぶき・水柱・波紋） |
+| 0.9b | オープニングを作り直し（澄んだ空気の音と、水滴ひとつ） |
+| 0.9a | **起動時のオープニング**：紺の水面に水滴が落ちて波紋が広がる演出と、水滴の音。設定でオフにしたり「いま見る」で見返したりできます |
+
+</details>
+
+<details>
 <summary><b>Ver. 0.8 系</b>（2026/11）― FPS 制限・スティックのライト</summary>
 
 | 版 | 内容 |
@@ -329,8 +354,9 @@ SuiPlay0X1 を Windows 化したとき、本体の設定をまとめて操作で
 - **Stick LED lighting** – 9 colors, brightness, full off; keeps your color after boot and sleep
 - **Performance overlay** – FPS, CPU, GPU, RAM, power, temperature, battery, clock
 - **Device & driver check** – links to official download pages (never installs drivers by itself)
+- **Opening animation** – a water drop falls onto a navy surface with ripples and sound (can be turned off)
 - **Themes & wallpaper**, **8 languages**, one-exe installer
-- Runs **only on SuiPlay0X1**. **Coming soon** – sales will start shortly (now in final testing, Ver. 0.8 series). Follow YouTube / X for the announcement.
+- Runs **only on SuiPlay0X1**. **Coming soon** – sales will start shortly (now in final testing, Ver. 0.9 series). Follow YouTube / X for the announcement.
 
 This is an unofficial app made by an individual developer and is not affiliated with the device manufacturer.
 
@@ -370,8 +396,9 @@ This is an unofficial app made by an individual developer and is not affiliated 
 - **摇杆灯光** – 9 种颜色、亮度调节、完全关闭，开机和睡眠唤醒后也会保持设置
 - **性能显示** – FPS、CPU、GPU、内存、功耗、温度、电量、时间
 - **设备与驱动检查** – 引导至官方下载页面（不会自动安装驱动）
+- **开机动画** – 水滴落入深蓝色水面泛起涟漪，伴随水滴声（可关闭）
 - **主题与壁纸**、**8 种语言**、单个 exe 即可安装
-- **仅支持 SuiPlay0X1**。**即将发售**（目前正在进行最终测试，Ver. 0.8 系列）。发售消息将在 YouTube / X 公布。
+- **仅支持 SuiPlay0X1**。**即将发售**（目前正在进行最终测试，Ver. 0.9 系列）。发售消息将在 YouTube / X 公布。
 
 本应用由个人开发者制作，属于非官方应用，与设备制造商无关。
 
@@ -403,8 +430,9 @@ This is an unofficial app made by an individual developer and is not affiliated 
 - **스틱 조명** – 9가지 색상, 밝기 조절, 완전 끄기. 부팅·절전 해제 후에도 설정 유지
 - **성능 표시** – FPS, CPU, GPU, 메모리, 소비 전력, 온도, 배터리, 시각
 - **장치·드라이버 점검** – 공식 다운로드 페이지로 안내(드라이버를 자동으로 설치하지 않음)
+- **시작 애니메이션** – 남색 수면에 물방울이 떨어져 물결이 퍼지는 연출과 물방울 소리(끌 수 있음)
 - **테마와 배경 화면**, **8개 언어**, exe 하나로 설치
-- **SuiPlay0X1 전용**입니다. **곧 판매 예정**입니다(현재 최종 테스트 중, Ver. 0.8 시리즈). 판매 소식은 YouTube / X에서 알려 드립니다.
+- **SuiPlay0X1 전용**입니다. **곧 판매 예정**입니다(현재 최종 테스트 중, Ver. 0.9 시리즈). 판매 소식은 YouTube / X에서 알려 드립니다.
 
 개인 개발자가 만든 비공식 앱이며, 기기 제조사와는 관계가 없습니다.
 
